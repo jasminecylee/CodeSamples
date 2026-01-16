@@ -1,5 +1,5 @@
 # CodeSamples
-The code samples are taken from an ongoing project on evaluating the impacts of child marriage on wellbeing among adolescents in Peru, Ethiopia, India, and Vietnam in the Young Lives project.
+The code samples (written in R) are taken from an ongoing project on evaluating the impacts of child marriage on wellbeing among adolescents in Peru, Ethiopia, India, and Vietnam in the Young Lives project.
 
 The [Young Lives project](https://www.younglives.org.uk) is a longitudinal dataset following around 2000 children in each country, collecting data on a variety of indicators including health, education, and labour outcomes.
 
