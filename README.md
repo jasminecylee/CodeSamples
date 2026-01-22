@@ -3,6 +3,8 @@ The code samples (written in R) are taken from an ongoing project on evaluating 
 
 The [Young Lives project](https://www.younglives.org.uk) is a longitudinal dataset following around 2000 children in each country, collecting data on a variety of indicators including health, education, and labour outcomes.
 
+In the  current project I have to first preprocess data from multiple rounds of data from two cohorts (younger cohort born in 2001, older cohort born in 1996) that are split into many code files available publicly from the [UK Data Service](https://ukdataservice.ac.uk). Analytical strategies include linear regression models with adjustment for covariates, difference-in-differences models, and propensity score matching.
+
 This code preprocesses, conducts multiple imputation, and a number of analyses on the research question. 
 
 # What it contains
